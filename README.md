@@ -6,6 +6,7 @@
 - HTML
 - CSS
 - JavaScript
+- Weather API
 
 ## Site link
 - https://mrechavez.github.io/GrowPlus/
